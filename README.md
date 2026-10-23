@@ -1,23 +1,24 @@
-# ShadCN Vue SaaS Template
+# AudioBook Studio
 
 <p align="center">
-    <img src="/public/static/screenshots.png?v=1">
+    <img src="/public/screenshot.png">
 </p>
 
-A minimal SaaS UI template built with ShadCN and Vue3. Works out of the box with [AnthonyBudd/Express-TS-Api-Template](https://github.com/anthonybudd/express-ts-api-template) as the backend.
+A local Audiobook editor that uses local Ai to generate speech.
 
-- 🔐 Login, Sign-up, Forgot Password
-- 👥 Manage Account, Groups & Roles.
-- ⚫️ Dark or Light Theme
-- 📈 Dashboard
+- 💬 Local In-Browser AI
+- 🌀 WebGPU
+- 🦖 100% Offline
+- ⚫️ Dark & Light Theme
 
+
+### Local Set-up
 ```sh
-git clone git@github.com:anthonybudd/Shadcn-Vue-SaaS-Template.git
-cd Shadcn-Vue-SaaS-Template
+git clone git@github.com/anthonybudd/Audiobook-Studio.git
+cd Audiobook-Studio
 
-cp .env.example .env
 npm i
 npm run dev
 
-open http://localhost:3000 # user@example.com / Password@1234
+open http://localhost:3000
 ```
