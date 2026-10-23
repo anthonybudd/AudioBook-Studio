@@ -5,7 +5,9 @@
 </p>
 
 <h3 align="center">
- [Audiobook-Studio.AnthonyBudd.io](https://Audiobook-Studio.AnthonyBudd.io)
+
+| [Audiobook-Studio.AnthonyBudd.io](https://Audiobook-Studio.AnthonyBudd.io) | [YouTube](https://www.youtube.com/@anthonycbudd) |
+
 </h3>
 
 A local Audiobook editor that uses local Ai to generate speech.
