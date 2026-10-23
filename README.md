@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-| [Audiobook-Studio.AnthonyBudd.io](https://Audiobook-Studio.AnthonyBudd.io) | [YouTube](https://www.youtube.com/@anthonycbudd) |
+ [Audiobook-Studio.AnthonyBudd.io](https://Audiobook-Studio.AnthonyBudd.io) 
 
 </h3>
 
